@@ -1,4 +1,5 @@
 The repo contains following Machine Learning Algorithms along w/ Dataset -
+
 a) Regression
 
 	1. Simple Linear Regression
