@@ -1,5 +1,3 @@
-That is how my hands got dirty and learnt ML so far. This repository is built for the ones who are naive to this domain and wants to practice Machine Learning using Python.
-
 The repo contains following Machine Learning Algorithms along w/ Dataset -
 a) Regression
 
